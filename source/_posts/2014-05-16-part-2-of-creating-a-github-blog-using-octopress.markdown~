@@ -5,8 +5,6 @@ date: 2014-05-16 18:40:14 -0500
 comments: true
 categories:
 --- 
-This is [an example](http://example.com/) inline link.
-
 How to set up a blog with Octopress:
 
 Step (1): 
@@ -16,7 +14,7 @@ Sign up for a GitHub Account. Go to [http://github.com](http://github.com) and c
 Step (2):
 
 Prepare yourself to access GitHub from the command line. Follow the Installing Git instructions in Scott Chacon's Pro Git book at:
-[http://git-scm.com/book/en/Getting-Started-Installing-Git].
+[http://git-scm.com/book/en/Getting-Started-Installing-Git](http://git-scm.com/book/en/Getting-Started-Installing-Git).
 
 Proceed to set up your username and password with the commands:
 git config --global user.name "Your name here"

@@ -17,7 +17,9 @@ Prepare yourself to access GitHub from the command line. Follow the Installing G
 [http://git-scm.com/book/en/Getting-Started-Installing-Git](http://git-scm.com/book/en/Getting-Started-Installing-Git).
 
 Proceed to set up your username and password with the commands:
+
 git config --global user.name "Your name here"
+
 git config --global git config --global user.email your_name@example.com
 
 Enable SSH connections between your computer and GitHub (so you do not have to type in a username and password all of the time). Go to: [https://help.github.com/articles/generating-ssh-keys](https://help.github.com/articles/generating-ssh-keys).
