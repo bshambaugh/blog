@@ -35,3 +35,5 @@ Set up a repository by logging into your GitHub account. Following the instructi
 Step (4):
 
 Follow the tutorial at Tom Ordonez's site: [http://www.tomordonez.com/blog/2012/06/04/creating-a-github-blog-using-octopress/](http://www.tomordonez.com/blog/2012/06/04/creating-a-github-blog-using-octopress/).
+
+Reference to previous Git Experience: [http://raptorlicious.blogspot.com/2014/02/hello-world-with-git.html](http://raptorlicious.blogspot.com/2014/02/hello-world-with-git.html)
