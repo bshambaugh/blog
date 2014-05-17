@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://bshambaugh.github.io/blog/atom.xml" rel="self"/>
   <link href="http://bshambaugh.github.io/blog/"/>
-  <updated>2014-05-16T21:43:51-05:00</updated>
+  <updated>2014-05-16T21:45:30-05:00</updated>
   <id>http://bshambaugh.github.io/blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -29,9 +29,11 @@
 <p>Prepare yourself to access GitHub from the command line. Follow the Installing Git instructions in Scott Chacon&rsquo;s Pro Git book at:
 <a href="http://git-scm.com/book/en/Getting-Started-Installing-Git">http://git-scm.com/book/en/Getting-Started-Installing-Git</a>.</p>
 
-<p>Proceed to set up your username and password with the commands:
-git config &mdash;global user.name &ldquo;Your name here&rdquo;
-git config &mdash;global git config &mdash;global user.email <a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#x6f;&#58;&#121;&#x6f;&#117;&#114;&#x5f;&#110;&#97;&#x6d;&#x65;&#64;&#101;&#120;&#x61;&#x6d;&#x70;&#108;&#x65;&#46;&#x63;&#111;&#109;">&#x79;&#x6f;&#117;&#114;&#x5f;&#x6e;&#x61;&#x6d;&#101;&#64;&#x65;&#120;&#97;&#109;&#x70;&#108;&#101;&#46;&#x63;&#x6f;&#109;</a></p>
+<p>Proceed to set up your username and password with the commands:</p>
+
+<p>git config &mdash;global user.name &ldquo;Your name here&rdquo;</p>
+
+<p>git config &mdash;global git config &mdash;global user.email <a href="&#x6d;&#x61;&#105;&#108;&#x74;&#111;&#58;&#x79;&#111;&#117;&#114;&#95;&#110;&#x61;&#109;&#x65;&#64;&#x65;&#120;&#x61;&#109;&#x70;&#108;&#x65;&#46;&#x63;&#x6f;&#x6d;">&#121;&#111;&#x75;&#x72;&#x5f;&#x6e;&#x61;&#x6d;&#x65;&#x40;&#101;&#120;&#97;&#109;&#112;&#108;&#x65;&#x2e;&#99;&#111;&#109;</a></p>
 
 <p>Enable SSH connections between your computer and GitHub (so you do not have to type in a username and password all of the time). Go to: <a href="https://help.github.com/articles/generating-ssh-keys">https://help.github.com/articles/generating-ssh-keys</a>.</p>
 
